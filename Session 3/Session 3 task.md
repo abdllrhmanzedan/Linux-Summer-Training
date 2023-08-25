@@ -1,4 +1,4 @@
-# Session 2: Task
+# Session 3: Task
 
 ### 1. Create a new user and a group:
   1. sudo useradd -m osc -> `creating a user` called "osc" with home directory
