@@ -1,5 +1,5 @@
 # Linux Summer Training
-## This is where I submit my tasks and learn linux.
+## This is where I submit my tasks and learn Linux.
 ## Easy access:
 - [Session 1](Session%201)
 - [Session 2](Session%202)
